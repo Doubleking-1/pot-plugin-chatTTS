@@ -3,7 +3,7 @@
     "plugin_type": "tts",
     "icon": "chatTTS.png",
     "display": "chatTTS",
-    "homepage": "",
+    "homepage": "https://github.com/Doubleking-1/pot-plugin-chatTTS.git",
     "needs": [
     {
         "key": "requestPath",
