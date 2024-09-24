@@ -1,0 +1,30 @@
+{
+    "id": "plugin.com.TechDecryptor.chatTTS",
+    "plugin_type": "tts",
+    "icon": "chatTTS.png",
+    "display": "chatTTS",
+    "homepage": "",
+    "needs": [
+    {
+        "key": "requestPath",
+        "display": "请求路径",
+        "type": "input"
+    }
+    ],
+    "language": {
+        "zh_cn": "zh",
+        "zh_tw": "zh",
+        "en": "en",
+        "ja": "jp",
+        "ko": "ko",
+        "fr": "fr",
+        "es": "es",
+        "ru": "ru",
+        "de": "de",
+        "it": "it",
+        "tr": "tr",
+        "pt_pt": "pt",
+        "pt_br": "pt",
+        "vi": "vi"
+    }
+}
